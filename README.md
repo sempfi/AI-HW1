@@ -35,3 +35,8 @@ Remember that in graph search, a state is expanded only once.
 <p align="center">
   <img src="https://s6.uupload.ir/files/graph_mmqo.png" alt="Graph."/>
 </p>
+
+1. Breadth-first search.
+2. Depth-first search.
+3. Iterative deepening search.
+4. Uniform cost search.
